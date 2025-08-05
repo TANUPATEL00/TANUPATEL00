@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanu Patel</h1>
 <h3 align="center">Final-year B.Tech Student | Cybersecurity Enthusiast | ML Explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
 
 - 🎓 Final-year Computer Engineering student at SRIT, Jabalpur  
 - 🔭 Currently interning at **CISCO AICTE (Networking Virtual Internship)**  
 - 🛡️ Past internships in **Cybersecurity** with Internselite + E-Cell IIT Hyderabad  
 - 💻 Working on **PhishShield – Fake URL Detector using ML & Flask**  
-  
 
 ---
 
