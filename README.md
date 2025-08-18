@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanu Patel</h1>
 <h3 align="center">Final-year B.Tech Student | AI Enthusiast | ML Explorer | Networking</h3>
 
-<img align="right" alt="Girl Coding" width="400" src="assets/girl-coder.png" />
+<img align="right" alt="Girl Coding" width="400" src="A_2D_digital_illustration_in_a_flat_and_modern_sty.png" />
+
 
 
 
