@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanu Patel</h1>
 <h3 align="center">Final-year B.Tech Student | AI Enthusiast | ML Explorer | Networking</h3>
 
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" alt="Girl Coder" width="400" src="assets/girl-coder.png" />
+
 
 - 🎓 Final-year Computer Engineering student at SRIT, Jabalpur  
 
