@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanu Patel</h1>
-<h3 align="center">Final-year B.Tech Student | AI Enthusiast | ML Explorer | Networking</h3>
+<h3 align="center">Final-year B.Tech Student | SQL | AI-ML Explorer | python |</h3>
 
 <img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNpNnduMm1iNTY2dGtqdzRkbmMxdnVybmhjZnJmdXBtYzE2M3FzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jRf5fsn8G6YaogAWxn/giphy.gif" />
 
